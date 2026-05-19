@@ -44,25 +44,4 @@ Atualmente estudando e desenvolvendo projetos com:
 - Autenticação JWT
 
 ---
-
-## 📌 Projetos em desenvolvimento
-- Sistema de tarefas com Node.js + Prisma
-- API REST com PostgreSQL
-- CRUD completo com autenticação JWT
-
----
-
-## 📈 GitHub Stats
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Calado18&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calado18&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contato
-- LinkedIn: SEU-LINKEDIN
-- Email: SEU-EMAIL
-
----
 ⭐ Sempre buscando evoluir como desenvolvedor backend.
